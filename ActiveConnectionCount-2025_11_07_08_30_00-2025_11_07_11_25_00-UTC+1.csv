@@ -1,7 +1,3 @@
-Id,metric_alias_metrics_view_graph_0
-StatusCode,Complete
-Messages,
-Full label,eu-south-1:AWS/ApplicationELB LoadBalancer:app/silsardegna-prod-alb/af978d1f9f911777 ActiveConnectionCount Sum 300
 Label,ActiveConnectionCount
 2025/11/07 08:30:00,2795
 2025/11/07 08:35:00,3195
