@@ -1,8 +1,4 @@
-Id,metric_alias_metrics_view_graph_4,metric_alias_metrics_view_graph_5
-StatusCode,Complete,Complete
-Messages,,
-Full label,eu-south-1:EC2CustomMetrics device:nvme0n1p1 fstype:ext4 InstanceId:i-007cedaa59161cb76 path:/ disk_used_percent Average 300,eu-south-1:EC2CustomMetrics device:nvme0n1p1 fstype:ext4 InstanceId:i-07c71afee5b3ae140 path:/ disk_used_percent Average 300
-Label,i-007cedaa59161cb76,i-07c71afee5b3ae140
+Time,i-007cedaa59161cb76(SIL-REVERSEP02),i-07c71afee5b3ae140(SIL-REVERSEP01)
 2025/11/07 08:30:00,14.428048848158378,13.264105374470455
 2025/11/07 08:35:00,14.430682640792895,13.266666445339556
 2025/11/07 08:40:00,14.433368603389562,13.26495590294427
