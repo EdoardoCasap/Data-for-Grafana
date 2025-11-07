@@ -1,8 +1,4 @@
-Id,metric_alias_metrics_view_graph_1,metric_alias_metrics_view_graph_2,metric_alias_metrics_view_graph_3
-StatusCode,Complete,Complete,Complete
-Messages,,,
-Full label,eu-south-1:AWS/EC2 InstanceId:i-07c71afee5b3ae140 CPUUtilization Average 300,eu-south-1:AWS/EC2 InstanceId:i-007cedaa59161cb76 CPUUtilization Average 300,eu-south-1:AWS/EC2 InstanceId:i-03dd53ef3c020349a CPUUtilization Average 300
-Label,i-07c71afee5b3ae140,i-007cedaa59161cb76,i-03dd53ef3c020349a
+Label,i-07c71afee5b3ae140(SIL-REVERSEP02),i-007cedaa59161cb76(SIL-REVERSEP01),i-03dd53ef3c020349a(SIL-REVERSESPCOOP)
 2025/11/07 08:30:00,8.38015592715428,6.3286720286590095,1.0251749045159002
 2025/11/07 08:35:00,8.820150064207269,7.02308520965398,0.6370247547610643
 2025/11/07 08:40:00,8.70172868496048,6.836900344827472,0.8816393128800664
